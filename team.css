@@ -50,3 +50,11 @@ h1{
     text-decoration: none;
     color: black;
 }
+.d{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.me{
+    text-align: center;
+}
