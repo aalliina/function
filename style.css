@@ -44,8 +44,10 @@ a{
     font-size: 25px;
 }
 .frame{
+    border: 2PX solid rgb(174, 174, 174);
     padding-right: 50px;
     text-align: center;
+    
 }
 h1{
     text-align: center;
